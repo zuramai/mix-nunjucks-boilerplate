@@ -20,6 +20,7 @@
     "laravel-mix-nunjucks": "^0.3.0"
   },
   "devDependencies": {
+    "cross-env": "^7.0.3",
     "laravel-mix-purgecss": "^5.0.0",
     "sass": "^1.26.11",
     "sass-loader": "^8.0.2"
