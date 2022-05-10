@@ -1,3 +1,8 @@
 {
-    "/assets/css/app.css": "/assets/css/app.css"
+    "/assets/css/app.css": "/assets/css/app.css",
+    "/index.html": "/index.html",
+    "/assets/scss/app.html": "/assets/scss/app.html",
+    "/assets/scss/bootstrap.html": "/assets/scss/bootstrap.html",
+    "/assets/scss/fonts.html": "/assets/scss/fonts.html",
+    "/assets/scss/layouts/main.html": "/assets/scss/layouts/main.html"
 }
